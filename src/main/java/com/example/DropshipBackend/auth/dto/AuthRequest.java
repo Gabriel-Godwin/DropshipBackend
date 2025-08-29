@@ -1,4 +1,4 @@
 package com.example.DropshipBackend.auth.dto;
 
-public class AuthDTO {
+public class AuthRequest {
 }
